@@ -165,8 +165,8 @@
   <!-- Bottom Metadata Chips -->
   <g transform="translate(480, 204)">
     <text text-anchor="middle" class="pill-tag">
-      <tspan fill="#ef4444">[STACK]</tspan> REACT &bull; FASTAPI &bull; PYTHON &bull; NODE.JS &bull; OPENCV &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-      <tspan fill="#ef4444">[COLLEGE]</tspan> TECHNO INDIA UNIVERSITY &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+      <tspan fill="#ef4444">[STACK]</tspan> REACT &#8226; FASTAPI &#8226; PYTHON &#8226; NODE.JS &#8226; OPENCV &#160;&#160;&#8226;&#160;&#160;
+      <tspan fill="#ef4444">[COLLEGE]</tspan> TECHNO INDIA UNIVERSITY &#160;&#160;&#8226;&#160;&#160;
       <tspan fill="#ef4444">[BASE]</tspan> KOLKATA, INDIA
     </text>
   </g>

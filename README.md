@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Amitabha Ghorai Header" />
+  <img src="https://raw.githubusercontent.com/amitabhaGhorai/amitabhaGhorai/main/assets/header.svg" width="100%" alt="Amitabha Ghorai Header" />
 </p>
 
 <p align="center">
@@ -259,7 +259,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 760px;" alt="Code and Art Quote" />
+  <img src="https://raw.githubusercontent.com/amitabhaGhorai/amitabhaGhorai/main/assets/quote.svg" width="100%" style="max-width: 760px;" alt="Code and Art Quote" />
 </p>
 
 ---
@@ -309,5 +309,5 @@
 </table>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/amitabhaGhorai/amitabhaGhorai/main/assets/footer.svg" width="100%" alt="Footer" />
 </p>
