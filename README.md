@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/amitabhaGhorai">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Amitabha%20Ghorai%20%F0%9F%91%8B;B.Tech%20Computer%20Science%20%26%20Engineering%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Creative%20Developer%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20Software%20Builder%20%F0%9F%A4%96;Turning%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Amitabha%20Ghorai%20%F0%9F%91%8B;B.Tech%20Computer%20Science%20%26%20Engineering%20Student%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Creative%20Developer%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20Software%20Builder%20%F0%9F%A4%96;Turning%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,6 +19,10 @@
   &nbsp;
   <a href="mailto:ghoraiamitabha001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
   </a>
   &nbsp;
   <a href="https://github.com/amitabhaGhorai" target="_blank">
@@ -95,7 +99,7 @@
   <br />
   <p>
     <a href="https://github.com/amitabhaGhorai" target="_blank">
-      <img src="https://img.shields.io/badge/Project-🚀%20Featured%20System-DC2626?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0a0a0a" alt="Featured System" />
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/amitabhaGhorai" target="_blank">
@@ -105,6 +109,28 @@
 </td>
 </tr>
 </table>
+
+---
+
+<h2 align="center">🧩 LeetCode &amp; Problem Solving</h2>
+
+<p align="center"><i>Live real-time tracker of coding challenges &amp; algorithmic problem-solving milestones.</i></p>
+
+<p align="center">
+  <a href="https://leetcode.com/amitabhaGhorai/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/amitabhaGhorai?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/amitabhaGhorai/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/amitabhaGhorai/" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
+  </a>
+</p>
 
 ---
 
@@ -131,7 +157,7 @@
   </a>
 </p>
 
-<p align="center"><b>Tools, DevOps &amp; AI Stack</b></p>
+<p align="center"><b>AI, Data Science, Hardware &amp; DevOps</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,figma,vscode&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
@@ -144,6 +170,8 @@
   <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
   &nbsp;
   <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
 </p>
 
 ---
