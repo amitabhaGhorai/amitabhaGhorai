@@ -72,7 +72,7 @@
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🔭 Flagship Project</h4>
-  <p><a href="https://github.com/amitabhaGhorai" target="_blank"><b>Real-Time Attendance System</b></a><br /><sub>Smart Automated Attendance &amp; Analytics</sub></p>
+  <p><a href="https://github.com/amitabhaGhorai/RealTime-Attendance-System" target="_blank"><b>Real-Time Attendance System</b></a><br /><sub>Smart Automated Attendance &amp; Analytics</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
@@ -106,7 +106,7 @@
       <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/amitabhaGhorai" target="_blank">
+    <a href="https://github.com/amitabhaGhorai/RealTime-Attendance-System" target="_blank">
       <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
     </a>
   </p>
