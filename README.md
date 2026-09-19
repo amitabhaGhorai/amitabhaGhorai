@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
+  <a href="https://leetcode.com/u/amitabha45/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
   <a href="https://x.com/gracelovelace13" target="_blank">
     <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-DC2626?style=for-the-badge&logo=x&logoColor=white&labelColor=0a0a0a" alt="X / Twitter" />
   </a>
@@ -112,22 +116,22 @@
 
 ---
 
-<h2 align="center">🧩 LeetCode &amp; Problem Solving</h2>
+<h2 align="center">🧩 LeetCode Problem Solving</h2>
 
 <p align="center"><i>Live real-time tracker of coding challenges &amp; algorithmic problem-solving milestones.</i></p>
 
 <p align="center">
-  <a href="https://leetcode.com/amitabhaGhorai/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/amitabhaGhorai?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
+  <a href="https://leetcode.com/u/amitabha45/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/amitabha45?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/amitabhaGhorai/" target="_blank">
+  <a href="https://leetcode.com/u/amitabha45/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/amitabhaGhorai/" target="_blank">
+  <a href="https://leetcode.com/u/amitabha45/" target="_blank">
     <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
   </a>
 </p>
